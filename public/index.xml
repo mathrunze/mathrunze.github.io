@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on </title>
+    <link>https://github.com/mathrunze/mathrunze.github.io/</link>
+    <description>Recent content in Home on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://github.com/mathrunze/mathrunze.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Formal degrees of genuine Iwahori-spherical representations</title>
+      <link>https://github.com/mathrunze/mathrunze.github.io/posts/1dgw/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/mathrunze/mathrunze.github.io/posts/1dgw/</guid>
+      <description>with Ping Dong and Fan Gao,  Q. J. Math. 74 (2023), no.4, 1597-1618.</description>
+    </item>
+    <item>
+      <title>2. Hecke algebras for tame genuine principal series and local Shimura correspondence</title>
+      <link>https://github.com/mathrunze/mathrunze.github.io/posts/2wang24/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/mathrunze/mathrunze.github.io/posts/2wang24/</guid>
+      <description>To appear in Trans. Amer. Math. Soc.   arXiv: &lt;a href=&#34;https://arxiv.org/abs/2405.06254&#34;&gt;2405.06254&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>3. The stable wave front set of theta representations</title>
+      <link>https://github.com/mathrunze/mathrunze.github.io/posts/3kow/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/mathrunze/mathrunze.github.io/posts/3kow/</guid>
+      <description>with Edmund Karasiewicz and Emile Okada,  arXiv: &lt;a href=&#34;https://arxiv.org/abs/2411.02073&#34;&gt;2411.02073&lt;/a&gt;</description>
+    </item>
+  </channel>
+</rss>

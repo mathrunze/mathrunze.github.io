@@ -1,0 +1,29 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = ''
+theme = 'typo-main'
+
+[params]
+homeIntroTitle = 'Runze Wang'
+
+homeIntroContent = """
+I am a fifth year graduate student at Zhejiang University. 
+
+My research interest is representation theory of $p$-adic groups and their covering groups, with a particular emphasis on Hecke algebras and type theory.
+
+Here is my [CV](/RunzeCV.pdf).
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Preprints and Publications'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '02 Jan 2006'
+showListDate = false
+# Footer
+showFooter = false
+
+
